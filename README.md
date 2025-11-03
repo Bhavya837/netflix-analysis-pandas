@@ -31,9 +31,17 @@ The goal of this project is to:
 - Google Colab
 
 
-# Dataset
+# Dataset  
 The dataset used is from Netflix Titles (public dataset).
 
 If running this notebook, the dataset can be accessed directly via:
 ```python
-df = pd.read_csv('https://raw.githubusercontent.com/<bhavya837>/<netflix-analysis-pandas>/main/netflix_cleaned.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/bhavya837/netflix-analysis-pandas/main/netflix_cleaned.csv')
+
+  
+Notebook: [Open in Colab](https://github.com/Bhavya837/netflix-analysis-pandas/blob/main/netflix_analysis_pandas.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/githubBhavya837/netflix-analysis-pandas/blob/main/netflix_analysis_pandas.ipynb)
+
+
+
+
